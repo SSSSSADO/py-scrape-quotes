@@ -8,3 +8,4 @@ soupsieve==2.9.2
 typing_extensions==4.16.0
 urllib3==2.7.0
 flake8==7.3.0
+pytest==7.1.3
